@@ -39,7 +39,10 @@ $packageList = @(
 "com.samsung.android.bixby.wakeup",
 "com.sec.android.daemonapp",
 "com.google.android.youtube",
-"com.microsoft.skydrive"
+"com.microsoft.skydrive",
+"com.sec.android.widgetapp.webmanual",
+"com.samsung.android.app.routines"
+
  
 )
 
